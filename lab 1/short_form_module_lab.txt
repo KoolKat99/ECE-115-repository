@@ -1,0 +1,34 @@
+1.3.1.b: We need Cleavant's or my part to be fully made in order to do this part
+
+
+
+1.3.2.a: do the exercise find some random additional requirement
+
+1.3.2.b: draw the block diagram....
+
+1.3.2.c: create a Trace matrix for our block diagram and system requirements
+
+
+
+1.3.3: Create Pinball System design plan together with Cleavant
+
+
+
+1.3.4.a: Create a sketch of pinball machine using PinballProjectDescription
+
+1.3.4.b: Make the machine with cardboard, plan a modular set up so we can easily add or remove our plunger
+
+
+
+1.3.5.a: Plan and Design the plunger mechanical system
+
+1.3.5.b: Build the system
+
+1.3.5.c: Test the system by guidelines
+
+1.3.5.d: Assess the results, possible redesign
+
+
+
+
+
